@@ -24,7 +24,13 @@ int main()
             }
         }
     }
-    
+
+    if (ans.empty())
+    {
+        cout << "EMPTY" << endl;
+        return 0;
+    }
+
     for (auto it : ans)
     cout << it << " ";
 
