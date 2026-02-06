@@ -37,4 +37,3 @@ This repository is used to **self-study and practice Data Structures and Algorit
 ---
 
 📅 Last updated: 2026  
-👤 Author: *Your Name*
