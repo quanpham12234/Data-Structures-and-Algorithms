@@ -56,3 +56,10 @@ set<string> st;
   Xóa một phần tử khỏi set nếu phần tử đó tồn tại.  
   Nếu phần tử không tồn tại, hàm **không gây lỗi runtime**.  
   Độ phức tạp: `O(logN)`.
+
+## 6. Tham khảo thêm
+- `multiset`
+  Tương tự như set nhưng có thể lưu trữ NHIỀU PHẦN TỬ CÓ GIÁ TRỊ GIỐNG NHAU, các phần tử đương nhiên cũng được sắp xếp.
+- `unordered_set`
+  Tương tự như set nhưng KHÔNG CÓ THỨ TỰ, tức là các phần tử của unordered_set sẽ xuất hiện MỘT CÁCH BẤT KÌ.
+  Ở unordered_set tốc độ của các hàm trong trường hợp tốt nhất là O(1) còn tệ nhất có thể lên đến O(N).
