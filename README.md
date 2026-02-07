@@ -33,6 +33,7 @@ This repository is used to **self-study and practice Data Structures and Algorit
 - Repository này phục vụ cho mục đích học tập cá nhân
 - Code được viết theo hướng dễ hiểu, ưu tiên rõ ràng hơn tối ưu
 - Nội dung sẽ được cập nhật dần theo quá trình học
+- Bài tập sẽ không bỏ vào đây mà làm trên các nền tảng như Hackerrank, LeetCode,...
 
 ---
 
