@@ -37,6 +37,8 @@ map<key_data_type, value_data_type> map_name;
 - Các bài toán cần thêm / xóa / tìm kiếm nhanh
 - Thay cho mảng đánh dấu khi dữ liệu lớn hoặc không liên tục
 
+---
+
 ### 1.5 Một số hàm quan trọng trong map
 
 - **insert(key, value)**  
